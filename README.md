@@ -34,7 +34,7 @@ The project uses a synthetic health dataset containing 1,000 observations.
 
 The dataset includes demographic and lifestyle variables along with a calculated Health_Score.
 
-Important Limitation
+Important Limitation:
 
 Because Health_Score is a calculated value, machine-learning models may learn the formula or relationships used to generate the score rather than discovering clinically valid health relationships.
 
