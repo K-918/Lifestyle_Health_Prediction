@@ -6,13 +6,13 @@ This project develops a machine learning system that uses lifestyle and demograp
 Project Goals:
 
 The project investigates how lifestyle factors such as:
--Age
--BMI
--Exercise frequency
--Diet quality
--Sleep duration
--Smoking status
--Alcohol consumption
+Age
+BMI
+Exercise frequency
+Diet quality
+Sleep duration
+Smoking status
+Alcohol consumption
 
 relate to and can be used to predict Health_Score. The project uses a synthetic health dataset containing 1,000 observations. The dataset includes demographic and lifestyle variables along with a calculated Health_Score.
 
