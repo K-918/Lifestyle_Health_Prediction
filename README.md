@@ -1,6 +1,5 @@
 # Lifestyle_Health_Prediction
 Machine learning project for lifestyle-based health prediction and personalized recommendations.
-Lifestyle-Based Health Prediction and Recommendation System
 
 This project develops a machine learning system that uses lifestyle and demographic variables to predict health outcomes and generate personalized lifestyle recommendations. The project is being completed as part of a one-month machine learning internship.
 
