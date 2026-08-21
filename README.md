@@ -4,7 +4,7 @@ Lifestyle-Based Health Prediction and Recommendation System
 
 This project develops a machine learning system that uses lifestyle and demographic variables to predict health outcomes and generate personalized lifestyle recommendations. The project is being completed as part of a one-month machine learning internship.
 
-Project Goals
+Project Goals:
 
 The project investigates how lifestyle factors such as:
 Age
@@ -17,7 +17,7 @@ Alcohol consumption
 
 relate to and can be used to predict Health_Score. The project uses a synthetic health dataset containing 1,000 observations. The dataset includes demographic and lifestyle variables along with a calculated Health_Score.
 
-Important Limitation:
+Important Limitations:
 
 Because Health_Score is a calculated value, machine-learning models may learn the formula or relationships used to generate the score rather than discovering clinically valid health relationships. This project is intended as an educational machine-learning system and is not a diagnostic or medical recommendation tool.
 
